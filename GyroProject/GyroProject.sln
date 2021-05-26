@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GyroProject", "GyroProject\GyroProject.pyproj", "{C37D54BB-E709-48ED-A3C5-3FF1B7CDC92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C37D54BB-E709-48ED-A3C5-3FF1B7CDC92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37D54BB-E709-48ED-A3C5-3FF1B7CDC92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3571CF5-FAD4-4A3A-9B80-6A78ED0BAC2A}
+	EndGlobalSection
+EndGlobal
