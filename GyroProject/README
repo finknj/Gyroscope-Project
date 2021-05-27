@@ -1,0 +1,3 @@
+In this project we used I2C communication protocol to communicate with a gyroscope. 
+The gyroscope relays accelerometer data to a python script. The python script
+creates a 3D cube and applies a rotation to the cube proportional to the direction the gyroscope is facing.  
